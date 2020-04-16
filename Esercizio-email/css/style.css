@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#accesso-email{
+    width: 800px;
+    height: 500px;
+    border: 2px dashed black;
+    background: rgb(184, 181, 181);
+}
+
+#stampa-email{
+    width: 600px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.rosso{
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.numero-prescelti{
+    width: 700px;
+    height: 120px;
+    margin-left: 50px;
+}
+
+.titolo{
+    font-size: 30px;
+    display: block; 
+    margin-left: 30px;
+    line-height: 50px;
+}
+
+#spazio{
+    width: 180px;
+    height: 60px;
+    background: white;
+    margin-left: 30px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 60px;
+}
+
+#spazio-2{
+    width: 180px;
+    height: 60px;
+    background: white;
+    margin-left: 30px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 60px;
+}
